@@ -1,1 +1,1 @@
-/** * File: Item.java *  * Description: Item class to return an Item object containing a key value. *  * @author Unknown * @version Unknown */package main.java;public final class Item {        public int key;        //constructor        public Item(int keyValue) {                 key = keyValue;        }        // further components and methods}
+package main.java;public final class Item {        public int key;        //constructor        public Item(int keyValue) {                 key = keyValue;        }        // further components and methods}
