@@ -1,3 +1,12 @@
+/**
+ * File: Main.java
+ * 
+ * Main method for running the program.
+ * 
+ * @author amehlhas
+ * @version 5 November 2018
+ */
+
 package main.java;
 
 import java.io.BufferedReader;
