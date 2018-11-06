@@ -1,5 +1,15 @@
 package main.java;
 
+/**
+ * File: Main.java
+ * 
+ * Main method for running the program.
+ * 
+ * @author amehlhas
+ * @version 5 November 2018
+ */
+
+
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.NoSuchElementException;

@@ -1,5 +1,15 @@
 package test.java;
 
+/**
+ * SortDemoTest.java
+ * 
+ * JUnit test method to verify functionality of SortDemo and 
+ * SortDemoData classes.
+ * 
+ * @author Unknown
+ * @version 5 November 18
+ */
+
 import static org.junit.Assert.assertTrue;
 import static org.junit.jupiter.api.Assertions.*;
 
